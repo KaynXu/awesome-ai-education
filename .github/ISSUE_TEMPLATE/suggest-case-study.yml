@@ -1,0 +1,50 @@
+name: Suggest a case study
+description: Suggest a public AI + Education case study for the repository.
+title: "[Case Study] "
+labels:
+  - submission:case-study
+body:
+  - type: input
+    id: case-study-title
+    attributes:
+      label: Case study title
+      description: What is the title of the case study?
+      placeholder: Example Case Study
+    validations:
+      required: true
+
+  - type: input
+    id: public-link
+    attributes:
+      label: Public link
+      description: Share the main public URL for the case study.
+      placeholder: https://example.org
+    validations:
+      required: true
+
+  - type: textarea
+    id: education-workflow
+    attributes:
+      label: Education workflow
+      description: Which education workflow or setting does this case study cover?
+      placeholder: Describe the classroom, institutional, or operational workflow.
+    validations:
+      required: true
+
+  - type: textarea
+    id: implementation
+    attributes:
+      label: Implementation
+      description: How was the work implemented in practice?
+      placeholder: Describe the rollout, stakeholders, or operating model.
+    validations:
+      required: true
+
+  - type: textarea
+    id: why-it-belongs
+    attributes:
+      label: Why this belongs in AI + Education
+      description: Explain why this is specifically an AI + Education case study, not just a generally important case.
+      placeholder: Describe the education context, where AI is applied, and why it fits the repository scope.
+    validations:
+      required: true

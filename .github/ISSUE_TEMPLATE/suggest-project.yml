@@ -1,0 +1,50 @@
+name: Suggest a project
+description: Suggest a public project for the Awesome AI + Education list.
+title: "[Project] "
+labels:
+  - submission:project
+body:
+  - type: input
+    id: project-name
+    attributes:
+      label: Project name
+      description: What is the name of the project?
+      placeholder: Example Project
+    validations:
+      required: true
+
+  - type: input
+    id: public-link
+    attributes:
+      label: Public link
+      description: Share the main public URL for the project.
+      placeholder: https://example.org
+    validations:
+      required: true
+
+  - type: textarea
+    id: education-use-case
+    attributes:
+      label: Education use case
+      description: Which teaching, learning, assessment, or school workflow does this support?
+      placeholder: Describe the concrete education scenario.
+    validations:
+      required: true
+
+  - type: textarea
+    id: ai-application
+    attributes:
+      label: How AI is applied
+      description: Explain what the AI is doing in this project.
+      placeholder: Describe the AI capability and how it is used.
+    validations:
+      required: true
+
+  - type: textarea
+    id: why-ai-education
+    attributes:
+      label: Why it belongs in AI + Education
+      description: Explain why this fits the repository scope.
+      placeholder: Explain why this is more than general AI literacy or generic tooling.
+    validations:
+      required: true
