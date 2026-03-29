@@ -1,10 +1,49 @@
 # Awesome AI + Education
 
-> A curated bilingual list of tools, projects, and case studies on how AI empowers education.
+> A curated bilingual awesome list of AI tools, projects, open-source work, and case studies that improve teaching, learning design, assessment, feedback, and school workflows.
 
 English | [中文](README.zh-CN.md)
 
-This repository focuses on `AI + Education`, not on teaching people how to use AI.
+This repository curates `AI + Education`, not general AI literacy or courses about how to use AI.
+
+It is built for educators, curriculum designers, school leaders, education teams, and anyone mapping how AI is being applied in real education practice.
+
+## Why This List Exists
+
+Most AI directories are broad, hype-driven, or unclear about what counts as education use. This list is intentionally narrower: it focuses on practical AI applications that support teaching, learning design, assessment, feedback, student support, and school workflows.
+
+## What This List Includes
+
+- AI tools that support real education workflows
+- Public case studies showing actual implementation in schools or classrooms
+- Education-relevant open-source projects when they are clearly verified
+- Emerging products worth watching when they fit the repository boundary
+
+## What This List Does Not Cover
+
+- General AI literacy programs
+- General-purpose AI courses or prompt training
+- Paper-only collections without practical implementation
+- Broad AI tools without a clear education workflow fit
+
+## Who This List Is For
+
+- Educators looking for practical tools they can use or evaluate
+- Curriculum and learning designers looking for AI-supported workflows
+- School and district teams assessing implementation patterns
+- Researchers, founders, and operators tracking the applied AI + Education landscape
+
+## Contents
+
+- [Featured](#featured)
+- [By Use Case](#by-use-case)
+- [Case Studies](#case-studies)
+- [Open Source Projects](#open-source-projects)
+- [Watchlist / Emerging](#watchlist--emerging)
+- [Inclusion Criteria](#inclusion-criteria)
+- [Out of Scope](#out-of-scope)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## What This List Is
 
