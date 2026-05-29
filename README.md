@@ -91,6 +91,7 @@ This list curates practical uses of AI in education, including teaching, learnin
 - [Ysleta Middle School + Curipod](https://curipod.com/case-studies/curipod-case-study-ysleta-bilingual) - Teachers used Curipod to give emergent bilingual students immediate writing feedback, safer participation, and stronger engagement within limited class time. Tags: Writing Growth, Bilingual Support.
 
 ## Open Source Projects
+- [Shiori](https://github.com/kaorii-ako/Shiori-v1) - Open-source AI study companion for students. Google Classroom sync, Gemini AI study plans, SRS flashcards, GPA calculator, AI quiz generator, syllabus import. MCP server for Claude Code. Free, MIT licensed. ([Demo](https://shiori-v1.vercel.app)) Tags: Students, Open Source, Claude.
 
 No verified open-source education-focused projects in the first starter batch yet.
 
