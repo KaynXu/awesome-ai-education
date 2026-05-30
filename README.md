@@ -92,7 +92,7 @@ This list curates practical uses of AI in education, including teaching, learnin
 
 ## Open Source Projects
 
-No verified open-source education-focused projects in the first starter batch yet.
+- [Shiori](https://github.com/kaorii-ako/Shiori-v1) - Open-source AI study companion for students. Features Google Classroom sync, Gemini AI study plans, spaced repetition flashcards, GPA predictor, AI quiz generator, and a Claude Code MCP server. Free, MIT licensed, self-hostable. Tags: Students, AI Tools, MCP.
 
 ## Watchlist / Emerging
 
