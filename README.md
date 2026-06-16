@@ -96,7 +96,7 @@ No verified open-source education-focused projects in the first starter batch ye
 
 ## Watchlist / Emerging
 
-Starter watchlist pending additional verified entries.
+- [Superhighway EdTech Research Agent](https://superhighway.walls.sh/guides/edtech-research-agent) - Open Python tutorial for building an agent that researches the education technology market with live web search, then synthesizes funding trends, efficacy evidence, and district procurement signals into a structured JSON briefing with evidence-base ratings and FERPA/COPPA notes. Target users: curriculum designers, school and district teams, and EdTech operators evaluating which AI tools to adopt. AI is applied to gather and rate the research evidence behind a tool before procurement. Tags: Procurement, Evidence Base, Curriculum Design.
 
 ## Inclusion Criteria
 
