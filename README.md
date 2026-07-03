@@ -75,6 +75,7 @@ This list curates practical uses of AI in education, including teaching, learnin
 - [Eduaide](https://www.eduaide.ai/) - Includes an assessment builder for classroom-ready materials and differentiated instruction. Tags: Assessment, Differentiation.
 - [Curipod](https://www.curipod.com/) - Provides real-time AI feedback during teacher-paced lessons so students can reflect, revise, and improve while learning is still active. Tags: Feedback, Active Participation.
 - [Chalkie](https://chalkie.ai/) - Includes lesson quizzes, differentiated worksheets, and classroom activities that help teachers assess learning alongside lesson delivery. Tags: Assessment, Differentiation.
+- [QuizVerse](https://quizverse.world/) - Supports AI-graded adaptive exam practice and rubric-based feedback for standardized test preparation, with multilingual learner access. Tags: Assessment, Feedback, Exam Prep.
 
 ### Student Tutoring and Support
 - [Khanmigo](https://khanmigo.ai/) - Provides on-demand learner support designed to help students think critically instead of receiving direct answers. Tags: Tutoring, Critical Thinking.

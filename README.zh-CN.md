@@ -75,6 +75,7 @@
 - [Eduaide](https://www.eduaide.ai/) - 提供评估构建器，用于课堂可直接使用的材料与分层教学。标签：评估，分层。
 - [Curipod](https://www.curipod.com/) - 在教师主导课程进行中提供实时 AI 反馈，帮助学生边学边反思、修改和提升。标签：反馈，主动参与。
 - [Chalkie](https://chalkie.ai/) - 提供课程测验、差异化讲义与课堂活动，帮助教师在授课过程中同步开展学习评估。标签：评估，分层。
+- [QuizVerse](https://quizverse.world/) - 支持面向标准化考试备考的 AI 评分自适应练习与基于 rubric 的反馈, 并提供多语言学习者访问. 标签: 评估, 反馈, 考试备考.
 
 ### 学生辅导与支持
 - [Khanmigo](https://khanmigo.ai/) - 提供按需学习支持，强调帮助学生进行批判性思考，而不是直接给答案。标签：辅导，批判性思维。
