@@ -97,7 +97,7 @@
 
 ## 观察名单 / 新兴项目
 
-观察名单待补充更多已验证条目。
+- [Superhighway EdTech Research Agent](https://superhighway.walls.sh/guides/edtech-research-agent) - 一个开放 Python 教程, 用于构建代理, 汇总实时 EdTech 市场, 效果证据, 融资和采购信号, 形成用于工具评估的结构化简报. 标签: 采购, 证据评估, 观察名单.
 
 ## 收录标准
 

@@ -97,7 +97,7 @@ This list curates practical uses of AI in education, including teaching, learnin
 
 ## Watchlist / Emerging
 
-Starter watchlist pending additional verified entries.
+- [Superhighway EdTech Research Agent](https://superhighway.walls.sh/guides/edtech-research-agent) - Open Python tutorial for building an agent that gathers live EdTech market, efficacy, funding, and procurement signals into a structured briefing for tool evaluation. Tags: Procurement, Evidence Review, Watchlist.
 
 ## Inclusion Criteria
 
