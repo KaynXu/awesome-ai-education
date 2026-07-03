@@ -93,7 +93,7 @@ This list curates practical uses of AI in education, including teaching, learnin
 
 ## Open Source Projects
 
-No verified open-source education-focused projects in the first starter batch yet.
+- [Shiori](https://github.com/kaorii-ako/Shiori-v1) - Open-source AI study companion for students, with Google Classroom sync, AI-generated study plans and quizzes, spaced repetition flashcards, and self-hostable deployment. Tags: Student Support, Study Planning, Open Source.
 
 ## Watchlist / Emerging
 

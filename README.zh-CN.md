@@ -93,7 +93,7 @@
 
 ## 开源项目
 
-首批整理中暂未纳入已验证的教育向开源项目。
+- [Shiori](https://github.com/kaorii-ako/Shiori-v1) - 面向学生的开源 AI 学习伙伴, 支持 Google Classroom 同步, AI 学习计划与测验生成, 间隔重复记忆卡片和自托管部署. 标签: 学生支持, 学习规划, 开源.
 
 ## 观察名单 / 新兴项目
 
