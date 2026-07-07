@@ -1,118 +1,93 @@
-# Awesome AI + Education
+# Awesome AI + Education [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated bilingual awesome list of AI tools, projects, open-source work, and case studies that improve teaching, learning design, assessment, feedback, and school workflows.
+> A curated bilingual list of AI tools, open-source projects, and real education case studies for teaching, learning design, assessment, feedback, tutoring, school operations, and education technology strategy.
 
 English | [中文](README.zh-CN.md)
 
-This repository curates `AI + Education`, not general AI literacy or courses about how to use AI.
+This repository tracks practical `AI + Education` work: education AI tools, AI teaching copilots, AI tutoring systems, automated feedback workflows, AI assessment tools, curriculum design assistants, school workflow automation, and evidence-rich EdTech implementation examples.
 
-It is built for educators, curriculum designers, school leaders, education teams, and anyone mapping how AI is being applied in real education practice.
-
-## Why This List Exists
-
-Most AI directories are broad, hype-driven, or unclear about what counts as education use. This list is intentionally narrower: it focuses on practical AI applications that support teaching, learning design, assessment, feedback, student support, and school workflows.
-
-## What This List Includes
-
-- AI tools that support real education workflows
-- Public case studies showing actual implementation in schools or classrooms
-- Education-relevant open-source projects when they are clearly verified
-- Emerging products worth watching when they fit the repository boundary
-
-## What This List Does Not Cover
-
-- General AI literacy programs
-- General-purpose AI courses or prompt training
-- Paper-only collections without practical implementation
-- Broad AI tools without a clear education workflow fit
-
-## Who This List Is For
-
-- Educators looking for practical tools they can use or evaluate
-- Curriculum and learning designers looking for AI-supported workflows
-- School and district teams assessing implementation patterns
-- Researchers, founders, and operators tracking the applied AI + Education landscape
+It intentionally excludes broad AI directories, generic prompt courses, and general-purpose AI tools that do not show a clear education workflow.
 
 ## Contents
 
-- [Featured](#featured)
-- [By Use Case](#by-use-case)
+- [Lesson Planning and Teaching Copilots](#lesson-planning-and-teaching-copilots)
+- [Assessment and Feedback](#assessment-and-feedback)
+- [Student Tutoring and Learner Support](#student-tutoring-and-learner-support)
+- [Content Creation and Curriculum Design](#content-creation-and-curriculum-design)
+- [School Operations and Procurement](#school-operations-and-procurement)
 - [Case Studies](#case-studies)
 - [Open Source Projects](#open-source-projects)
-- [Watchlist / Emerging](#watchlist--emerging)
+- [Watchlist and Emerging Work](#watchlist-and-emerging-work)
+- [How to Read Entries](#how-to-read-entries)
 - [Inclusion Criteria](#inclusion-criteria)
-- [Out of Scope](#out-of-scope)
-- [Contributing](#contributing)
-- [License](#license)
 
-## What This List Is
+## Lesson Planning and Teaching Copilots
 
-This list curates practical uses of AI in education, including teaching, learning, assessment, feedback, content creation, and school operations.
+- [MagicSchool](https://www.magicschool.ai/) - AI platform for teachers and schools with lesson plans, quizzes, IEP support, report card comments, student tools, and school-safe classroom workflows (Tags: Teachers, Planning, School Platform).
+- [Eduaide](https://www.eduaide.ai/) - AI workspace for instructional materials, lesson design, assessment creation, graphic organizers, differentiation, and standards-aligned classroom resources (Tags: Instructional Design, Assessment, Differentiation).
+- [Curipod](https://www.curipod.com/) - Teacher-paced lesson platform that uses AI to create interactive lessons, student activities, writing prompts, and real-time feedback loops (Tags: Interactive Lessons, Engagement, Feedback).
+- [Chalkie](https://chalkie.ai/) - AI lesson and activity generator for teachers, with worksheets, lesson series, curriculum alignment, and export support for classroom-ready materials (Tags: Lesson Planning, Worksheets, Standards).
+- [TeachMateAI](https://teachmateai.com/) - Teacher-focused AI toolkit for planning, differentiation, feedback, reports, parent communication, and administrative classroom tasks (Tags: Teacher Tools, Planning, Workflow).
+- [SchoolAI](https://schoolai.com/) - AI platform for schools that supports teacher-created student experiences, classroom assistants, student check-ins, and district-level AI controls (Tags: Schools, Student Experiences, Governance).
+- [Flint](https://www.flintk12.com/) - K-12 AI platform for teachers and schools, focused on AI activities, assignments, feedback, and school-managed student use (Tags: K-12, Assignments, Teacher Control).
 
-## Featured
+## Assessment and Feedback
 
-- [Khanmigo](https://khanmigo.ai/) - On-demand AI-powered support for education built for educators. Helps learners think critically rather than giving direct answers, with teacher tools and learner support. Tags: Educators, Learner Support.
-- [MagicSchool](https://www.magicschool.ai/) - AI platform for schools with tools for lesson planning, writing feedback, report card comments, quizzes, and classroom-ready workflows. Tags: Teachers, Students, Schools.
-- [Brisk Teaching](https://www.briskteaching.com/) - Personalizes instruction with AI inside existing workflow tools. Creates lessons, feedback, quizzes, and differentiated materials for educators, students, and schools. Tags: Instruction, Feedback, Differentiation.
-- [Eduaide](https://www.eduaide.ai/) - AI toolkit for instructional materials with lesson builder, assessment builder, and graphic organizers. Supports classroom-ready materials, differentiation, and standards alignment. Tags: Instructional Materials, Assessment, Differentiation.
-- [Curipod](https://www.curipod.com/) - AI-powered teacher-paced lessons with interactive activities and real-time feedback for students. Supports standards-aligned instruction, active participation, and classroom discussion across subjects and grade levels. Tags: Lessons, Student Feedback, Classroom Engagement.
-- [Diffit](https://app.diffit.me/) - Helps teachers create and adapt instructional materials that are more accessible, engaging, and meaningful for different readiness levels and language needs. Supports handouts, guided practice, scaffolds, translations, and differentiated classroom resources. Tags: Differentiation, Accessibility, Instructional Materials.
-- [Chalkie](https://chalkie.ai/) - Generates classroom-ready lessons, lesson series, worksheets, and activities aligned to standards and curriculum frameworks. Designed with teachers for teachers, with export support for PowerPoint, Google Slides, and PDF. Tags: Lesson Planning, Activities, Standards Alignment.
+- [Brisk Teaching](https://www.briskteaching.com/) - AI assistant that works inside common teacher workflows to generate feedback, quizzes, differentiated materials, student activities, translations, and text-leveling support (Tags: Feedback, Differentiation, Google Workspace).
+- [Gradescope](https://www.gradescope.com/) - Assessment platform with AI-assisted grading workflows, answer grouping, rubric-based grading, and feedback management for paper, online, and programming assignments (Tags: Grading, Rubrics, Higher Education).
+- [Writable](https://www.writable.com/) - Writing instruction and feedback platform that helps teachers assign writing, provide feedback, use rubrics, and support revision cycles (Tags: Writing, Rubrics, Feedback).
+- [QuizVerse](https://quizverse.world/) - AI-graded adaptive exam practice platform with multilingual learner access, rubric-based feedback, and standardized test preparation workflows (Tags: Exam Prep, Adaptive Practice, Feedback).
 
-## By Use Case
+## Student Tutoring and Learner Support
 
-### Lesson Planning and Teaching Copilots
-- [MagicSchool](https://www.magicschool.ai/) - Supports lesson plans, quizzes, and classroom workflows for teachers, students, and schools. Tags: Teachers, Planning.
-- [Brisk Teaching](https://www.briskteaching.com/) - Creates lessons and differentiated materials inside existing workflow tools to personalize instruction. Tags: Teachers, Differentiation.
-- [Eduaide](https://www.eduaide.ai/) - Provides a lesson builder and classroom-ready instructional materials with standards alignment support. Tags: Planning, Standards Alignment.
-- [Curipod](https://www.curipod.com/) - Generates teacher-paced lessons with interactive activities, standards alignment, and built-in AI feedback for students. Tags: Lessons, Engagement.
-- [Diffit](https://app.diffit.me/) - Helps teachers quickly create classroom-ready handouts, guided practice, and instructional supports adapted to learner needs. Tags: Planning, Accessibility.
-- [Chalkie](https://chalkie.ai/) - Creates lessons, unit sequences, worksheets, and classroom activities from topics or teacher resources while aligning to national or state standards. Tags: Lesson Planning, Standards Alignment.
+- [Khanmigo](https://khanmigo.ai/) - AI-powered tutor and teaching assistant from Khan Academy, designed to guide student thinking instead of simply giving answers (Tags: Tutoring, Critical Thinking, Teacher Assistant).
+- [Kira Learning](https://www.kiralearning.com/) - AI-supported computer science education platform with curriculum, classroom tools, student support, and teacher visibility (Tags: Computer Science, Student Support, Curriculum).
+- [CENTURY Tech](https://www.century.tech/) - Adaptive learning platform that uses AI to recommend learning paths, identify gaps, and support teacher insight across subjects (Tags: Adaptive Learning, Diagnostics, Learner Support).
+- [Cognii](https://www.cognii.com/) - Virtual learning assistant focused on conversational tutoring, open-response assessment, and personalized feedback for education and training (Tags: Virtual Tutor, Open Response, Feedback).
 
-### Assessment and Feedback
-- [MagicSchool](https://www.magicschool.ai/) - Includes writing feedback, report card comments, and quizzes for school use. Tags: Feedback, Assessment.
-- [Brisk Teaching](https://www.briskteaching.com/) - Generates feedback and quizzes while supporting differentiated materials. Tags: Feedback, Quizzes.
-- [Eduaide](https://www.eduaide.ai/) - Includes an assessment builder for classroom-ready materials and differentiated instruction. Tags: Assessment, Differentiation.
-- [Curipod](https://www.curipod.com/) - Provides real-time AI feedback during teacher-paced lessons so students can reflect, revise, and improve while learning is still active. Tags: Feedback, Active Participation.
-- [Chalkie](https://chalkie.ai/) - Includes lesson quizzes, differentiated worksheets, and classroom activities that help teachers assess learning alongside lesson delivery. Tags: Assessment, Differentiation.
-- [QuizVerse](https://quizverse.world/) - Supports AI-graded adaptive exam practice and rubric-based feedback for standardized test preparation, with multilingual learner access. Tags: Assessment, Feedback, Exam Prep.
+## Content Creation and Curriculum Design
 
-### Student Tutoring and Support
-- [Khanmigo](https://khanmigo.ai/) - Provides on-demand learner support designed to help students think critically instead of receiving direct answers. Tags: Tutoring, Critical Thinking.
+- [Diffit](https://app.diffit.me/) - Helps teachers adapt source material into differentiated readings, worksheets, vocabulary support, translations, and classroom handouts (Tags: Accessibility, Differentiation, Instructional Materials).
+- [Nolej](https://nolej.io/) - Generates interactive learning content from source materials, including activities, assessments, flashcards, and SCORM-style learning objects (Tags: Interactive Content, Courseware, Authoring).
+- [Mindsmith](https://www.mindsmith.ai/) - AI-assisted eLearning authoring platform for creating lessons, training modules, assessments, and shareable learning content (Tags: eLearning, Authoring, Assessments).
 
-### Content Creation and Curriculum Design
-- [Eduaide](https://www.eduaide.ai/) - Helps build instructional materials, graphic organizers, and other classroom-ready resources with standards alignment support. Tags: Curriculum Design, Materials.
-- [Diffit](https://app.diffit.me/) - Supports teachers in adapting materials for different reading levels, language needs, and learning styles while reducing prep time. Tags: Curriculum Design, Differentiation.
+## School Operations and Procurement
+
+- [Merlyn Mind](https://www.merlyn.org/) - Classroom AI assistant and voice interface designed for teachers, classroom devices, search, presentation control, and school-safe AI access (Tags: Classroom Operations, Voice Assistant, Teacher Workflow).
+- [Edthena AI Coach](https://www.edthena.com/ai-coach/) - AI-powered teacher coaching tool that supports reflection, professional learning cycles, and instructional practice improvement (Tags: Teacher Development, Coaching, Reflection).
 
 ## Case Studies
 
-- [Ottawa Catholic School Board + Brisk](https://www.briskteaching.com/success-stories/ottawa-catholic-school-board) - District-scale safe student-facing AI rollout with Brisk integrated into Google Workspace for personalized support, feedback, and multilingual access. Tags: District Rollout, Google Workspace.
-- [Barbers Hill ISD + Brisk](https://www.briskteaching.com/success-stories/barbers-hill-independent-school-district) - District-wide Brisk adoption began with middle school ELA teachers and expanded through Google Workspace workflows for targeted feedback, student activities, translation, text leveling, and differentiated support. Tags: District Adoption, Google Workspace.
-- [Jessica Bryant + Eduaide](https://www.eduaide.ai/teacher-success-story) - A middle school science teacher used Eduaide to improve planning workflow, standards alignment, differentiation, and reclaim planning time. Tags: Teacher Workflow, Standards Alignment.
-- [Ysleta Middle School + Curipod](https://curipod.com/case-studies/curipod-case-study-ysleta-bilingual) - Teachers used Curipod to give emergent bilingual students immediate writing feedback, safer participation, and stronger engagement within limited class time. Tags: Writing Growth, Bilingual Support.
+- [Ottawa Catholic School Board + Brisk](https://www.briskteaching.com/success-stories/ottawa-catholic-school-board) - District-scale student-facing AI rollout with Brisk integrated into Google Workspace for personalized support, feedback, and multilingual access (Tags: District Rollout, Google Workspace).
+- [Barbers Hill ISD + Brisk](https://www.briskteaching.com/success-stories/barbers-hill-independent-school-district) - District adoption story covering targeted feedback, student activities, translation, text leveling, and differentiated support inside teacher workflows (Tags: District Adoption, Differentiation).
+- [Jessica Bryant + Eduaide](https://www.eduaide.ai/teacher-success-story) - Middle school science teacher case study on planning workflow, standards alignment, differentiated materials, and reclaimed planning time (Tags: Teacher Workflow, Science, Standards).
+- [Ysleta Middle School + Curipod](https://curipod.com/case-studies/curipod-case-study-ysleta-bilingual) - Classroom case study on emergent bilingual students using immediate AI writing feedback, safer participation, and active engagement (Tags: Bilingual Support, Writing Feedback).
 
 ## Open Source Projects
 
-- [Shiori](https://github.com/kaorii-ako/Shiori-v1) - Open-source AI study companion for students, with Google Classroom sync, AI-generated study plans and quizzes, spaced repetition flashcards, and self-hostable deployment. Tags: Student Support, Study Planning, Open Source.
+- [Shiori](https://github.com/kaorii-ako/Shiori-v1) - Open-source AI study companion with Google Classroom sync, AI-generated study plans and quizzes, spaced repetition flashcards, and self-hostable deployment (Tags: Open Source, Study Planning, Self Hosted).
 
-## Watchlist / Emerging
+## Watchlist and Emerging Work
 
-- [Superhighway EdTech Research Agent](https://superhighway.walls.sh/guides/edtech-research-agent) - Open Python tutorial for building an agent that gathers live EdTech market, efficacy, funding, and procurement signals into a structured briefing for tool evaluation. Tags: Procurement, Evidence Review, Watchlist.
+- [Superhighway EdTech Research Agent](https://superhighway.walls.sh/guides/edtech-research-agent) - Open Python tutorial for building an EdTech research agent that gathers market, evidence, funding, procurement, and implementation signals into structured briefs (Tags: Research Agent, Procurement, Evidence Review).
+- [Google Learn About](https://learning.google.com/experiments/learn-about) - Experimental AI learning experience that helps learners explore topics with interactive explanations and source-grounded learning support (Tags: Experimental, Learner Support, Knowledge Exploration).
+
+## How to Read Entries
+
+Each entry should make three things clear:
+
+- Who uses it: teachers, students, school leaders, curriculum teams, or education operators.
+- What workflow it supports: planning, feedback, assessment, tutoring, content creation, operations, procurement, or professional learning.
+- How AI is applied: generation, adaptation, tutoring, grading support, recommendation, coaching, search, or workflow automation.
 
 ## Inclusion Criteria
 
-See [docs/criteria.md](docs/criteria.md).
+See [docs/criteria.md](docs/criteria.md) for the full curation rubric.
 
-## Out of Scope
-
-- General AI literacy programs
-- General AI usage courses
-- Paper-only collections without practical implementations
+In short, entries belong here when they show a concrete education workflow, a clear AI role, and public information that a reader can evaluate. Tools with weak education fit should stay out, even when they are popular AI products.
 
 ## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md).
+Suggestions are welcome through [CONTRIBUTING.md](CONTRIBUTING.md). Please include the target users, the education workflow, how AI is applied, and why the resource belongs in an `AI + Education` list.
 
-## License
-
-MIT
+Released under the [MIT License](LICENSE).

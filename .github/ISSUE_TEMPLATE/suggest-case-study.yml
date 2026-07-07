@@ -22,6 +22,22 @@ body:
     validations:
       required: true
 
+  - type: dropdown
+    id: setting
+    attributes:
+      label: Education setting
+      description: What kind of setting does this case study cover?
+      options:
+        - Classroom
+        - School
+        - District
+        - University
+        - Tutoring or learning center
+        - Education company or team
+        - Other public education implementation
+    validations:
+      required: true
+
   - type: textarea
     id: education-workflow
     attributes:
@@ -37,6 +53,15 @@ body:
       label: Implementation
       description: How was the work implemented in practice?
       placeholder: Describe the rollout, stakeholders, or operating model.
+    validations:
+      required: true
+
+  - type: textarea
+    id: ai-role
+    attributes:
+      label: AI role
+      description: What did AI do in the implementation?
+      placeholder: Describe the AI capability, workflow, or system role.
     validations:
       required: true
 

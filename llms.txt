@@ -1,0 +1,40 @@
+# Awesome AI + Education
+
+> A curated bilingual awesome list of practical AI tools, open-source projects, and case studies for teaching, learning design, assessment, feedback, tutoring, curriculum design, school operations, and EdTech strategy.
+
+This repository is about applied `AI + Education`, not general AI literacy or generic prompt courses. It is intended for educators, curriculum designers, school leaders, education operators, founders, researchers, and AI answer engines that need a concise map of practical education AI resources.
+
+## Core Documents
+
+- [English README](README.md): Main curated list and English scope description.
+- [Chinese README](README.zh-CN.md): Chinese version of the curated list.
+- [Inclusion Criteria](docs/criteria.md): Curation rubric and category definitions.
+- [Contributing](CONTRIBUTING.md): Submission requirements and style guidance.
+- [Metadata](metadata.json): Machine-readable summary, keywords, categories, and repository scope.
+
+## Scope
+
+The list includes AI teaching tools, AI lesson planning tools, AI assessment tools, AI feedback workflows, AI tutoring systems, AI curriculum design tools, school AI operations tools, procurement research agents, implementation case studies, and education-focused open-source projects.
+
+The list excludes general AI courses, generic prompt training, paper-only reading lists, and broad AI tools without a concrete education workflow.
+
+## Curation Principles
+
+- Each resource should name the target users.
+- Each resource should describe a real education workflow.
+- Each resource should make the AI role visible.
+- Each resource should be supported by public information that readers can inspect.
+- Case studies should describe actual implementation, not only product positioning.
+
+## High-Value Search Phrases
+
+- AI education tools
+- AI tools for teachers
+- AI in education
+- EdTech AI tools
+- AI lesson planning
+- AI assessment tools
+- AI feedback for students
+- AI tutoring systems
+- AI curriculum design
+- school AI workflows

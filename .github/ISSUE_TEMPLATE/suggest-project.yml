@@ -22,6 +22,22 @@ body:
     validations:
       required: true
 
+  - type: dropdown
+    id: suggested-category
+    attributes:
+      label: Suggested category
+      description: Where does this best fit?
+      options:
+        - Lesson Planning and Teaching Copilots
+        - Assessment and Feedback
+        - Student Tutoring and Learner Support
+        - Content Creation and Curriculum Design
+        - School Operations and Procurement
+        - Open Source Projects
+        - Watchlist and Emerging Work
+    validations:
+      required: true
+
   - type: textarea
     id: education-use-case
     attributes:
@@ -37,6 +53,15 @@ body:
       label: How AI is applied
       description: Explain what the AI is doing in this project.
       placeholder: Describe the AI capability and how it is used.
+    validations:
+      required: true
+
+  - type: textarea
+    id: public-evidence
+    attributes:
+      label: Public evidence
+      description: Share evidence that readers can inspect, such as documentation, product pages, GitHub repositories, case studies, or public demos.
+      placeholder: Link or describe the public evidence.
     validations:
       required: true
 
