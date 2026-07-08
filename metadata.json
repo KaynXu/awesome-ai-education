@@ -1,0 +1,58 @@
+{
+  "name": "Awesome AI + Education",
+  "url": "https://github.com/KaynXu/awesome-ai-education",
+  "description": "A bilingual awesome list of practical AI tools, open-source projects, and case studies for teaching, learning design, assessment, feedback, tutoring, curriculum design, school operations, and EdTech strategy.",
+  "languages": [
+    "en",
+    "zh-CN"
+  ],
+  "topics": [
+    "ai-in-education",
+    "ai-tools",
+    "artificial-intelligence",
+    "assessment",
+    "awesome",
+    "awesome-list",
+    "edtech",
+    "education",
+    "education-technology",
+    "generative-ai",
+    "instructional-design",
+    "learning-design",
+    "teacher-tools",
+    "teaching"
+  ],
+  "audiences": [
+    "teachers",
+    "students",
+    "school leaders",
+    "curriculum designers",
+    "education operators",
+    "edtech founders",
+    "researchers"
+  ],
+  "categories": [
+    "Lesson Planning and Teaching Copilots",
+    "Assessment and Feedback",
+    "Student Tutoring and Learner Support",
+    "Content Creation and Curriculum Design",
+    "School Operations and Procurement",
+    "Case Studies",
+    "Open Source Projects",
+    "Watchlist and Emerging Work"
+  ],
+  "keywords": [
+    "AI education tools",
+    "AI tools for teachers",
+    "AI in education",
+    "EdTech AI",
+    "AI lesson planning",
+    "AI tutoring",
+    "AI assessment",
+    "AI feedback",
+    "AI curriculum design",
+    "school AI workflow"
+  ],
+  "inclusion_summary": "Entries should support a concrete education workflow, make the AI role clear, identify target users, and provide public information that readers can evaluate.",
+  "exclusion_summary": "The list excludes general AI literacy programs, generic AI courses, prompt packs without applied education workflows, and broad AI tools without clear education fit."
+}
