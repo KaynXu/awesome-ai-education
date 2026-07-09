@@ -1,93 +1,96 @@
-# Awesome AI + Education [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome AI for Education [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> 一个双语 awesome 精选清单, 收录用于教学, 学习设计, 评估, 反馈, 辅导, 学校运营和教育科技策略的 AI 工具, 开源项目与真实案例.
+> 一份由人类策展, 以公开证据为基础, 聚焦 AI 改善教育实践的 field guide.
+
+关注 AI for education, 而不是 education about AI.
 
 [English](README.md) | 中文
 
-这个仓库追踪实用的 `AI + Education` 工作: 教育 AI 工具, AI 教学副驾, AI 辅导系统, 自动化反馈流程, AI 评估工具, 课程设计助手, 学校工作流自动化, 以及有落地证据的 EdTech 实施案例.
-
-它刻意排除泛 AI 导航, 通用 prompt 课程, 以及没有清晰教育工作流的通用 AI 工具.
+人工审核 | 证据标注 | 双语同步
 
 ## 目录
 
-- [备课与教学副驾](#备课与教学副驾)
-- [评估与反馈](#评估与反馈)
-- [学生辅导与学习支持](#学生辅导与学习支持)
-- [内容生产与课程设计](#内容生产与课程设计)
-- [学校运营与采购评估](#学校运营与采购评估)
-- [案例](#案例)
+- [教学与备课](#教学与备课)
+- [评价与反馈](#评价与反馈)
+- [辅导与学习支持](#辅导与学习支持)
+- [内容与课程](#内容与课程)
+- [学校运营与治理](#学校运营与治理)
+- [教师发展与教练](#教师发展与教练)
 - [开源项目](#开源项目)
-- [观察名单与新兴方向](#观察名单与新兴方向)
-- [如何阅读条目](#如何阅读条目)
-- [收录标准](#收录标准)
+- [实践证据](#实践证据)
+- [观察名单](#观察名单)
+- [策展方式](#策展方式)
 
-## 备课与教学副驾
+## 教学与备课
 
-- [MagicSchool](https://www.magicschool.ai/) - 面向教师和学校的 AI 平台, 支持教案, 测验, IEP 辅助, 评语, 学生工具和学校可控的课堂工作流 (标签: 教师, 备课, 学校平台).
-- [Eduaide](https://www.eduaide.ai/) - 面向教学材料的 AI 工作台, 支持课程设计, 评估创建, 图形组织器, 分层教学和标准对齐资源 (标签: 教学设计, 评估, 分层).
-- [Curipod](https://www.curipod.com/) - 教师主导式互动课程平台, 用 AI 生成互动课, 学生活动, 写作提示和实时反馈环节 (标签: 互动课程, 课堂参与, 反馈).
-- [Chalkie](https://chalkie.ai/) - 面向教师的 AI 课程和活动生成器, 支持讲义, 课程序列, 课程框架对齐和课堂可用材料导出 (标签: 备课, 讲义, 标准对齐).
-- [TeachMateAI](https://teachmateai.com/) - 教师 AI 工具包, 支持备课, 分层, 反馈, 报告, 家校沟通和课堂行政任务 (标签: 教师工具, 备课, 工作流).
-- [SchoolAI](https://schoolai.com/) - 面向学校的 AI 平台, 支持教师创建学生 AI 体验, 课堂助手, 学生 check-in 和学区级 AI 管控 (标签: 学校, 学生体验, 治理).
-- [Flint](https://www.flintk12.com/) - K-12 AI 平台, 面向教师和学校提供 AI 活动, 作业, 反馈和学校管理下的学生使用场景 (标签: K-12, 作业, 教师管控).
+- [MagicSchool](https://www.magicschool.ai/) - 帮助教师和学校团队创建课程, 评价, 学习支持材料, 沟通文本和学生活动; [独立评估](docs/evidence.md#magicschool).
+- [Eduaide](https://www.eduaide.ai/) - 帮助教师设计课程, 评价, 分层材料和标准对齐资源; [厂商案例](docs/evidence.md#eduaide).
+- [Curipod](https://curipod.com/) - 帮助教师开展互动课程和写作练习, 并向学生提供即时反馈; [厂商案例](docs/evidence.md#curipod).
+- [Teachmate](https://www.teachmate.com/) - 帮助教师备课, 改编资源, 撰写报告并减少沟通工作量; [厂商案例](docs/evidence.md#teachmate).
 
-## 评估与反馈
+## 评价与反馈
 
-- [Brisk Teaching](https://www.briskteaching.com/) - 嵌入教师常用工作流的 AI 助手, 支持生成反馈, 测验, 分层材料, 学生活动, 翻译和文本分级 (标签: 反馈, 分层, Google Workspace).
-- [Gradescope](https://www.gradescope.com/) - 评估平台, 支持 AI 辅助评分, 答案聚类, rubric 评分和纸笔, 在线, 编程作业的反馈管理 (标签: 评分, Rubric, 高等教育).
-- [Writable](https://www.writable.com/) - 写作教学与反馈平台, 帮助教师布置写作, 提供反馈, 使用 rubric 并支持多轮修改 (标签: 写作, Rubric, 反馈).
-- [QuizVerse](https://quizverse.world/) - AI 评分的自适应考试练习平台, 支持多语言学习者访问, rubric 反馈和标准化考试备考 (标签: 考试备考, 自适应练习, 反馈).
+- [Brisk Teaching](https://www.briskteaching.com/) - 帮助教师在已有浏览器工作流中创建反馈, 评价, 分层材料, 翻译和学生活动; [厂商案例](docs/evidence.md#brisk-teaching).
+- [Gradescope](https://www.gradescope.com/) - 帮助教师通过答案分组, rubric 和可复用反馈批改纸笔, 在线和编程作业; [公开部署](docs/evidence.md#gradescope).
+- [Writable](https://www.writable.com/) - 帮助教师管理写作任务, rubric, 反馈和多轮修改; [产品文档](docs/evidence.md#writable).
 
-## 学生辅导与学习支持
+## 辅导与学习支持
 
-- [Khanmigo](https://khanmigo.ai/) - Khan Academy 的 AI 辅导和教师助手, 强调引导学生思考, 而不是直接给出答案 (标签: 辅导, 批判性思维, 教师助手).
-- [Kira Learning](https://www.kiralearning.com/) - AI 支持的计算机科学教育平台, 提供课程, 课堂工具, 学生支持和教师可见性 (标签: 计算机科学, 学生支持, 课程).
-- [CENTURY Tech](https://www.century.tech/) - 自适应学习平台, 用 AI 推荐学习路径, 识别知识缺口, 并支持教师洞察 (标签: 自适应学习, 诊断, 学习支持).
-- [Cognii](https://www.cognii.com/) - 虚拟学习助手, 聚焦对话式辅导, 开放回答评估和个性化反馈 (标签: 虚拟导师, 开放回答, 反馈).
+- [Khanmigo](https://khanmigo.ai/) - 通过辅导引导学习者推理, 同时为教师提供教学助手; [独立评估](docs/evidence.md#khanmigo).
+- [CENTURY Tech](https://www.century.tech/) - 为学生提供自适应练习路径, 并帮助教师识别课程知识缺口; [独立评估](docs/evidence.md#century-tech).
+- [Flint](https://flintk12.com/) - 让 K-12 教师在学校管理的环境中布置 AI 支持活动, 查看学生对话和反馈; [产品文档与外部评审](docs/evidence.md#flint).
 
-## 内容生产与课程设计
+## 内容与课程
 
-- [Diffit](https://app.diffit.me/) - 帮助教师把原始材料改编为分层阅读, 练习单, 词汇支持, 翻译和课堂讲义 (标签: 可及性, 分层, 教学材料).
-- [Nolej](https://nolej.io/) - 从源材料生成互动学习内容, 包括活动, 评估, 记忆卡片和类 SCORM 学习对象 (标签: 互动内容, 课件, 创作).
-- [Mindsmith](https://www.mindsmith.ai/) - AI 辅助的 eLearning 创作平台, 用于创建课程, 培训模块, 评估和可分享学习内容 (标签: eLearning, 创作, 评估).
+- [Diffit](https://app.diffit.me/) - 帮助教师把源材料改编为分层阅读, 词汇支持, 练习单, 翻译和讲义; [公开部署](docs/evidence.md#diffit).
 
-## 学校运营与采购评估
+## 学校运营与治理
 
-- [Merlyn Mind](https://www.merlyn.org/) - 面向课堂的 AI 助手和语音界面, 支持教师, 教室设备, 搜索, 演示控制和学校安全 AI 访问 (标签: 课堂运营, 语音助手, 教师工作流).
-- [Edthena AI Coach](https://www.edthena.com/ai-coach/) - AI 教师教练工具, 支持反思, 专业学习周期和教学实践改进 (标签: 教师发展, 教练, 反思).
+- [SchoolAI](https://schoolai.com/) - 帮助教师和学校管理者创建受治理的学生 AI 空间, 课堂活动, 学生 check-in 和学习可见性; [厂商托管研究](docs/evidence.md#schoolai).
+- [Merlyn](https://www.merlyn.org/) - 帮助教师控制课堂设备, 演示内容, 搜索并使用学校管理的语音助手; [独立评估及厂商托管摘要](docs/evidence.md#merlyn).
 
-## 案例
+## 教师发展与教练
 
-- [Ottawa Catholic School Board + Brisk](https://www.briskteaching.com/success-stories/ottawa-catholic-school-board) - 学区规模的学生端 AI 落地, Brisk 集成到 Google Workspace, 用于个性化支持, 反馈和多语言访问 (标签: 学区落地, Google Workspace).
-- [Barbers Hill ISD + Brisk](https://www.briskteaching.com/success-stories/barbers-hill-independent-school-district) - 学区采用案例, 覆盖教师工作流内的定向反馈, 学生活动, 翻译, 文本分级和分层支持 (标签: 学区采用, 分层).
-- [Jessica Bryant + Eduaide](https://www.eduaide.ai/teacher-success-story) - 初中科学教师案例, 展示备课流程, 标准对齐, 分层材料和备课时间回收 (标签: 教师工作流, 科学, 标准).
-- [Ysleta Middle School + Curipod](https://curipod.com/case-studies/curipod-case-study-ysleta-bilingual) - 课堂案例, 展示新兴双语学生使用即时 AI 写作反馈, 更安全地参与课堂并提升投入度 (标签: 双语支持, 写作反馈).
+- [Edthena AI Coach](https://www.edthena.com/ai-coach-for-teachers/) - 基于课堂证据, 引导教师完成结构化反思和教学教练周期; [研究记录](docs/evidence.md#edthena-ai-coach).
 
 ## 开源项目
 
-- [Shiori](https://github.com/kaorii-ako/Shiori-v1) - 开源 AI 学习伙伴, 支持 Google Classroom 同步, AI 学习计划与测验生成, 间隔重复记忆卡片和自托管部署 (标签: 开源, 学习规划, 自托管).
+- [Shiori](https://github.com/kaorii-ako/Shiori-v1) - 提供 Google Classroom 同步, 学习计划, 测验和间隔重复记忆卡片, 采用 MIT 许可证并支持自托管; [开源评审](docs/evidence.md#shiori).
 
-## 观察名单与新兴方向
+开源是独立且重要的编辑层, 不是整个 field guide 的收录门槛. 代码公开让项目更容易检查, 但不能证明教育效果.
 
-- [Superhighway EdTech Research Agent](https://superhighway.walls.sh/guides/edtech-research-agent) - 开放 Python 教程, 用于构建 EdTech 研究代理, 汇总市场, 证据, 融资, 采购和落地信号, 形成结构化简报 (标签: 研究代理, 采购, 证据评估).
-- [Google Learn About](https://learning.google.com/experiments/learn-about) - 实验性 AI 学习体验, 帮助学习者通过互动解释和来源支撑的学习支持探索主题 (标签: 实验性, 学习支持, 知识探索).
+## 实践证据
 
-## 如何阅读条目
+- [Ottawa Catholic School Board + Brisk](https://www.briskteaching.com/success-stories/ottawa-catholic-school-board) - 记录 Brisk 在 Google Workspace 中面向学区规模部署, 用于反馈, 个性化支持和多语言访问. 厂商报告案例.
+- [Barbers Hill ISD + Brisk](https://www.briskteaching.com/success-stories/barbers-hill-independent-school-district) - 记录学区使用 Brisk 提供定向反馈, 学生活动, 翻译, 文本分级和分层支持. 厂商报告案例.
+- [Ysleta Middle School + Curipod](https://curipod.com/case-studies/curipod-case-study-ysleta-bilingual) - 记录新兴双语学习者使用即时写作反馈并参与课堂. 厂商报告案例.
 
-每个条目都应该说清三件事:
+这些记录展示落地情境, 不代表独立背书. 来源归属被明确写出, 方便读者自行判断证据.
 
-- 谁在使用: 教师, 学生, 学校管理者, 课程团队或教育运营者.
-- 支持什么工作流: 备课, 反馈, 评估, 辅导, 内容生产, 运营, 采购或教师发展.
-- AI 如何发挥作用: 生成, 改编, 辅导, 辅助评分, 推荐, 教练, 搜索或工作流自动化.
+## 观察名单
 
-## 收录标准
+- [Chalkie](https://chalkie.ai/) - 为教师生成课程, 活动, 练习单和课程框架对齐材料; [等待具名部署或独立评估](docs/evidence.md#chalkie).
+- [QuizVerse](https://quizverse.world/) - 为学习者提供自适应考试练习, 自动评分和多语言反馈; [等待公开部署证据](docs/evidence.md#quizverse).
+- [Kira Learning](https://www.kiralearning.com/) - 结合计算机科学课程, 课堂管理和 AI 学习支持; [已有外部评审, 但结果证据仍有限](docs/evidence.md#kira-learning).
+- [Cognii](https://www.cognii.com/) - 提供对话式辅导和开放回答反馈; [等待当前具名部署和近期评估](docs/evidence.md#cognii).
+- [Nolej](https://nolej.io/) - 把源材料转换为活动, 评价, 记忆卡片和可复用课件; [等待更强的落地证据](docs/evidence.md#nolej).
+- [Mindsmith](https://www.mindsmith.ai/) - 帮助学习设计者创建课程, 培训模块, 评价和可分享 e-learning 内容; [等待非厂商证据](docs/evidence.md#mindsmith).
+- [Google Learn About](https://learning.google.com/experiments/learn-about) - 让学习者通过互动解释, 来源和追问探索主题; [仍处实验阶段, 课堂证据有限](docs/evidence.md#google-learn-about).
 
-完整收录规则见 [docs/criteria.md](docs/criteria.md).
+观察名单是主动评审队列, 不是低质量目录. 只有公开证据发生变化, 项目才会移动.
 
-简单说, 条目需要展示具体教育工作流, 清晰的 AI 角色, 以及读者可以公开评估的信息. 即使某个 AI 产品很热门, 只要教育场景不清晰, 就不应该进入主列表.
+## 策展方式
 
-## 参与贡献
+每个 Main List 决定都由人类维护者作出. AI 可以帮助发现候选项目, 搜集来源和起草文字, 但不能批准条目.
 
-欢迎通过 [CONTRIBUTING.md](CONTRIBUTING.md) 提交建议. 请说明目标用户, 教育工作流, AI 的作用, 以及为什么这个资源属于 `AI + Education` 列表.
+每个入选资源都必须展示具体教育工作流, 清晰目标用户和公开证据. 证据标签描述来源归属和强度, 不用虚假的数字评分包装不确定性. 厂商案例始终明确标注, 项目会随着证据变化在 Main List 和 Watchlist 之间移动.
+
+公开的 [证据账本](docs/evidence.md) 记录来源, 局限和复核日期. 完整 [策展标准](docs/criteria.md) 定义收录, 移动和删除规则. 通用 AI 工具, AI 素养课程和纯论文集合不会被收录, 除非它们连接到具体教育实践.
+
+## 参与共建
+
+欢迎教育者, 研究者, 开发者和学校团队质疑现有条目, 补充证据并推荐资源. 可以只用英文提交, 最终双语一致性由维护者负责.
+
+请先阅读 [CONTRIBUTING.md](CONTRIBUTING.md), 然后 [推荐项目](https://github.com/KaynXu/awesome-ai-education/issues/new?template=suggest-project.yml) 或 [提交实践证据](https://github.com/KaynXu/awesome-ai-education/issues/new?template=suggest-case-study.yml). 提交前请参考上方策展标准和证据账本.
 
 本仓库使用 [MIT License](LICENSE) 发布.
