@@ -1,4 +1,5 @@
 AGENTS.md
 handoff.md
 docs/superpowers/
+.worktrees/
 .task*_verify.sh
