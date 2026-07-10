@@ -1,40 +1,47 @@
-name: Suggest a case study
-description: Suggest a public AI + Education case study for the repository.
-title: "[Case Study] "
+name: Suggest field evidence
+description: Propose a named AI for education implementation for human editorial review.
+title: "[Field Evidence] "
 labels:
   - submission:case-study
 body:
-  - type: input
-    id: case-study-title
+  - type: markdown
     attributes:
-      label: Case study title
-      description: What is the title of the case study?
-      placeholder: Example Case Study
+      value: |
+        Field Evidence shows implementation context. Vendor-published cases are welcome when clearly disclosed.
+
+  - type: input
+    id: setting-name
+    attributes:
+      label: Named education setting
+      description: Name the classroom, school, district, university, learning center, or education team.
+      placeholder: Example School District
     validations:
       required: true
 
   - type: input
-    id: public-link
+    id: source-url
     attributes:
-      label: Public link
-      description: Share the main public URL for the case study.
-      placeholder: https://example.org
+      label: Public source URL
+      description: Link directly to the implementation record.
+      placeholder: https://example.org/case-study
     validations:
       required: true
 
-  - type: dropdown
-    id: setting
+  - type: textarea
+    id: scale
     attributes:
-      label: Education setting
-      description: What kind of setting does this case study cover?
-      options:
-        - Classroom
-        - School
-        - District
-        - University
-        - Tutoring or learning center
-        - Education company or team
-        - Other public education implementation
+      label: Implementation scale
+      description: State the number of classrooms, schools, users, or duration when public.
+      placeholder: Describe the public scale and timeline.
+    validations:
+      required: true
+
+  - type: textarea
+    id: participants
+    attributes:
+      label: Participants
+      description: Identify the educators, learners, leaders, or teams involved.
+      placeholder: Describe the people involved.
     validations:
       required: true
 
@@ -42,34 +49,74 @@ body:
     id: education-workflow
     attributes:
       label: Education workflow
-      description: Which education workflow or setting does this case study cover?
-      placeholder: Describe the classroom, institutional, or operational workflow.
-    validations:
-      required: true
-
-  - type: textarea
-    id: implementation
-    attributes:
-      label: Implementation
-      description: How was the work implemented in practice?
-      placeholder: Describe the rollout, stakeholders, or operating model.
+      description: Explain what changed in teaching, learning, assessment, feedback, tutoring, curriculum, operations, governance, or educator development.
+      placeholder: Describe the implemented workflow.
     validations:
       required: true
 
   - type: textarea
     id: ai-role
     attributes:
-      label: AI role
-      description: What did AI do in the implementation?
-      placeholder: Describe the AI capability, workflow, or system role.
+      label: Role of AI
+      description: Explain what AI did in the implementation.
+      placeholder: Describe the AI capability and its place in the workflow.
     validations:
       required: true
 
   - type: textarea
-    id: why-it-belongs
+    id: observed-result
     attributes:
-      label: Why this belongs in AI + Education
-      description: Explain why this is specifically an AI + Education case study, not just a generally important case.
-      placeholder: Describe the education context, where AI is applied, and why it fits the repository scope.
+      label: Observed result or operational change
+      description: Report only what the public source supports.
+      placeholder: Describe the reported result and any stated limitations.
     validations:
       required: true
+
+  - type: input
+    id: source-owner
+    attributes:
+      label: Source owner
+      description: Name the organization that published the source.
+      placeholder: Publisher name
+    validations:
+      required: true
+
+  - type: dropdown
+    id: vendor-published
+    attributes:
+      label: Is the source vendor-published?
+      options:
+        - "Yes"
+        - "No"
+        - "Unclear"
+    validations:
+      required: true
+
+  - type: textarea
+    id: affiliation
+    attributes:
+      label: Your affiliation
+      description: State your role, organization, and relationship to the source or write `No affiliation`.
+      placeholder: No affiliation
+    validations:
+      required: true
+
+  - type: dropdown
+    id: self-promotion
+    attributes:
+      label: Self-promotion or material relationship
+      options:
+        - "No"
+        - "Yes, disclosed in the affiliation field"
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: confirmations
+    attributes:
+      label: Confirmation
+      options:
+        - label: This is a real education implementation, not a hypothetical use case.
+          required: true
+        - label: I have separated reported facts from my interpretation.
+          required: true

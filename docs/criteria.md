@@ -1,50 +1,56 @@
-# Inclusion Criteria
+# Curation Criteria
 
-This repository curates practical `AI + Education` resources. It is not a general AI directory.
+This repository is a field guide to AI that improves educational practice. It is selective by design.
 
-## In Scope
+## Scope Boundary
 
-- Lesson planning and teaching copilots.
-- Assessment and feedback workflows.
-- Student tutoring and learner support.
-- Content creation and curriculum design.
-- School operations, procurement, and AI governance in education.
-- Teacher professional development tied to instructional practice.
-- Real implementation case studies in schools, districts, universities, tutoring teams, or education companies.
-- Education-focused open-source projects.
+In scope means AI supports a concrete workflow in teaching, learning, assessment, feedback, tutoring, curriculum, school operations, governance, or educator development. Education about AI, general prompt training, generic AI directories, and paper-only resources without a practical implementation are out of scope.
 
-## Out of Scope
+## Editorial Layers
 
-- General AI literacy programs.
-- General AI courses or prompt training.
-- Paper-only collections without practical applications.
-- Generic AI tools with no clear educational workflow.
-- Private demos with no public product, project, or case-study information.
+- Main List: Practical resources with a clear target user, inspectable workflow, stable public URL, and public evidence.
+- Open Source: Education-focused codebases whose license, setup path, maintenance activity, and workflow can be inspected.
+- Field Evidence: Named implementations that show how a resource is used in an education setting.
+- Watchlist: Relevant resources that remain early, weakly evidenced, experimental, or difficult to inspect.
 
-## Entry Rubric
+Open source is an important independent layer. A GitHub repository is not required for Main List admission.
 
-Use these questions before adding or accepting an entry:
+## Main List Requirements
 
-- Education workflow: Does the resource support a real teaching, learning, assessment, feedback, tutoring, curriculum, operations, or procurement task?
-- AI role: Is it clear what AI is doing, such as generation, adaptation, tutoring, grading support, recommendation, coaching, search, or workflow automation?
-- Target users: Are the intended users visible, such as teachers, students, school leaders, curriculum teams, or education operators?
-- Public evidence: Can readers evaluate the entry from public information?
-- Category fit: Does it belong in the main list, case studies, open source, or watchlist?
+Every entry must identify the target user, concrete education workflow, role of AI, primary URL, strongest evidence type, and matching evidence record. Popularity, marketing claims, or a large user count are not sufficient. A human maintainer must approve every Main List decision.
 
-## Curation Layers
+## Open Source Requirements
 
-### Main List
+The repository must expose a license, usable setup path, meaningful education workflow, and recent maintenance activity. Self-hosting is recorded only when documentation supports it. Open code makes a project inspectable; it does not prove educational impact.
 
-Use for tools and projects with clear education value, public usefulness, and enough information for readers to evaluate.
+## Field Evidence Requirements
 
-### Case Studies
+A record must name the education setting, participants or scale when public, workflow, role of AI, and source owner. Vendor-published cases are welcome only when labeled `Vendor-reported case study`.
 
-Use for real implementations in educational settings. Prefer entries that describe users, context, rollout, workflow, and observed impact.
+## Watchlist Requirements
 
-### Open Source Projects
+A resource must still fit the scope and expose a usable public workflow. The evidence ledger must state what prevents Main List admission and what stronger evidence would change the decision.
 
-Use for education-focused codebases that are inspectable and meaningfully tied to teaching, learning, assessment, or learner support.
+## Evidence Labels
 
-### Watchlist and Emerging Work
+- Independent evaluation: A non-vendor source reports methods and findings.
+- Public deployment: A named education organization publicly describes real use.
+- Vendor case study: A named implementation is documented by the vendor.
+- Open source review: Code, license, setup, activity, and workflow are inspectable.
+- Product documentation: The workflow is supported by official documentation only.
 
-Use for promising resources that fit the scope but still need more validation, maturity, or implementation evidence.
+Labels describe source type. They are not grades, rankings, or endorsements. Product documentation alone normally belongs in Watchlist unless the workflow is unusually inspectable and the editorial note explains the exception.
+
+## Conflicts Of Interest
+
+Submitters must disclose employment, investment, sponsorship, client work, affiliate relationships, or other material connections. Self-submission is allowed, but disclosure never guarantees inclusion.
+
+## Review, Movement, And Removal
+
+Maintainers recheck entries when links break, products change scope, evidence is withdrawn, projects are archived, licenses disappear, or conflicts are discovered. The response may be a correction, move to Watchlist, promotion after stronger evidence, or removal. Removing a weak entry is as valuable as adding a strong one.
+
+AI may help discover candidates, gather sources, and draft text. It may not approve an entry or make the final layer decision.
+
+## Bilingual Merge Policy
+
+Contributors may submit in English only. Maintainers are responsible for matching structure, order, scope, and editorial decisions in `README.md` and `README.zh-CN.md` before merge.

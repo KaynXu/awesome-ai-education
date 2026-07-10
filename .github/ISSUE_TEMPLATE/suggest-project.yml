@@ -1,75 +1,133 @@
 name: Suggest a project
-description: Suggest a public project for the Awesome AI + Education list.
+description: Propose an AI for education project for human editorial review.
 title: "[Project] "
 labels:
   - submission:project
 body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for contributing. English-only suggestions are welcome. Inclusion and layer placement are human editorial decisions.
+
   - type: input
     id: project-name
     attributes:
       label: Project name
-      description: What is the name of the project?
+      description: Use the public project or product name.
       placeholder: Example Project
     validations:
       required: true
 
   - type: input
-    id: public-link
+    id: primary-url
     attributes:
-      label: Public link
-      description: Share the main public URL for the project.
+      label: Primary public URL
+      description: Link to the product, project, or source repository.
       placeholder: https://example.org
     validations:
       required: true
 
   - type: dropdown
-    id: suggested-category
+    id: requested-layer
     attributes:
-      label: Suggested category
-      description: Where does this best fit?
+      label: Requested layer
+      description: Maintainers may choose a different layer after review.
       options:
-        - Lesson Planning and Teaching Copilots
-        - Assessment and Feedback
-        - Student Tutoring and Learner Support
-        - Content Creation and Curriculum Design
-        - School Operations and Procurement
-        - Open Source Projects
-        - Watchlist and Emerging Work
+        - Main List
+        - Open Source
+        - Watchlist
     validations:
       required: true
 
   - type: textarea
-    id: education-use-case
+    id: target-users
     attributes:
-      label: Education use case
-      description: Which teaching, learning, assessment, or school workflow does this support?
-      placeholder: Describe the concrete education scenario.
+      label: Target users
+      description: Name the educators, learners, school leaders, curriculum teams, or education operators who use it.
+      placeholder: Describe the specific users.
     validations:
       required: true
 
   - type: textarea
-    id: ai-application
+    id: education-workflow
     attributes:
-      label: How AI is applied
-      description: Explain what the AI is doing in this project.
-      placeholder: Describe the AI capability and how it is used.
+      label: Education workflow
+      description: Describe the concrete teaching, learning, assessment, feedback, tutoring, curriculum, operations, governance, or educator-development task.
+      placeholder: Explain what the user does with this project in practice.
     validations:
       required: true
 
   - type: textarea
-    id: public-evidence
+    id: ai-role
     attributes:
-      label: Public evidence
-      description: Share evidence that readers can inspect, such as documentation, product pages, GitHub repositories, case studies, or public demos.
-      placeholder: Link or describe the public evidence.
+      label: Role of AI
+      description: Explain what AI does inside the education workflow.
+      placeholder: Describe generation, adaptation, tutoring, grading support, recommendation, coaching, search, or automation.
+    validations:
+      required: true
+
+  - type: input
+    id: evidence-url
+    attributes:
+      label: Best public evidence URL
+      description: Link directly to the strongest evaluation, deployment, case study, repository, or documentation.
+      placeholder: https://example.org/evidence
+    validations:
+      required: true
+
+  - type: dropdown
+    id: evidence-owner
+    attributes:
+      label: Evidence owner
+      description: Who publishes the source above?
+      options:
+        - Independent researcher or evaluator
+        - School, district, university, or education organization
+        - Product vendor
+        - Open-source maintainers
+        - Product documentation only
+    validations:
+      required: true
+
+  - type: dropdown
+    id: access-status
+    attributes:
+      label: Access or open-source status
+      options:
+        - Public product with free access
+        - Public product with paid access
+        - Public product with institution access
+        - Open source with a license and setup path
+        - Experimental public access
     validations:
       required: true
 
   - type: textarea
-    id: why-ai-education
+    id: affiliation
     attributes:
-      label: Why it belongs in AI + Education
-      description: Explain why this fits the repository scope.
-      placeholder: Explain why this is more than general AI literacy or generic tooling.
+      label: Your affiliation
+      description: State your role, organization, and relationship to this project or write `No affiliation`.
+      placeholder: No affiliation
     validations:
       required: true
+
+  - type: dropdown
+    id: self-promotion
+    attributes:
+      label: Self-promotion or material relationship
+      description: Are you an employee, founder, investor, sponsor, client, affiliate, or paid representative?
+      options:
+        - "No"
+        - "Yes, disclosed in the affiliation field"
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: confirmations
+    attributes:
+      label: Confirmation
+      options:
+        - label: This supports AI for educational practice, not general AI literacy.
+          required: true
+        - label: The URLs and claims are public and can be reviewed by a maintainer.
+          required: true

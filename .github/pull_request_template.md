@@ -1,11 +1,31 @@
-## Summary
+## Editorial Request
 
-- 
+- Requested layer: Main List / Open Source / Field Evidence / Watchlist / Policy or correction
+- Target users:
+- Education workflow:
+- Role of AI:
 
-## Checklist
+## Evidence And Disclosure
 
-- [ ] I reviewed the changed files for scope, clarity, and repository consistency.
-- [ ] If this change adds or updates an entry, it states the education use case and how AI is applied.
-- [ ] If this change adds or updates an entry, it is not general AI literacy content and I checked for duplicates in `README.md` and `README.zh-CN.md`.
-- [ ] If this change adds or updates an entry, it uses one external link for that entry.
-- [ ] If this change changes the main list, I considered whether `llms.txt` or `metadata.json` should be updated too.
+- Primary URL:
+- Strongest evidence URL:
+- Evidence owner: Independent / Education organization / Vendor / Open-source maintainers / Product documentation
+- Contributor affiliation:
+- Self-promotion or material relationship: No / Yes, explained above
+
+## Changed Files
+
+- [ ] `README.md`
+- [ ] `README.zh-CN.md`, if changed by the contributor
+- [ ] `docs/evidence.md`
+- [ ] Curation or contribution policy
+
+## Review Checklist
+
+- [ ] This supports AI for educational practice, not general AI literacy.
+- [ ] The entry names a concrete workflow, target user, and evidence type.
+- [ ] Vendor-published evidence is labeled and unsupported marketing claims are absent.
+- [ ] I checked for duplicate project entries across workflow sections.
+- [ ] I opened every added or changed external link.
+- [ ] I disclosed my affiliation and material relationships.
+- [ ] I understand that maintainers make the final layer decision and ensure bilingual parity before merge.
