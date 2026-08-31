@@ -223,3 +223,13 @@ Evidence labels used here are Independent evaluation, Public deployment, Vendor 
 - Sources: [Learn About experiment](https://learning.google.com/experiments/learn-about)
 - Editorial note: The learning interaction is clear, but the product is experimental and public evidence about sustained classroom use or learning outcomes remains limited.
 - Last reviewed: 2026-07-09
+
+## StudyArena
+
+- Primary: [StudyArena](https://studyarena.com/)
+- Layer: Watchlist
+- For: Students comparing multiple AI-generated responses to a study question before choosing which answer is most useful
+- Evidence: Product documentation
+- Sources: [StudyArena product site](https://studyarena.com/), [StudyArena manifesto](https://studyarena.com/manifesto), [StudyArena pricing](https://studyarena.com/pricing), [Issue #9 submission and disclosure](https://github.com/KaynXu/awesome-ai-education/issues/9)
+- Editorial note: The blind-comparison workflow is concrete and publicly inspectable, but available adoption and outcome evidence is vendor-published and does not establish a named education deployment, independent evaluation, or learning outcomes. A named deployment or independent evaluation would support promotion.
+- Last reviewed: 2026-08-31

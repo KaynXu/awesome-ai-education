@@ -76,6 +76,7 @@ These records show implementation settings, not independent endorsements. Vendor
 - [Nolej](https://nolej.io/) - Converts source material into activities, assessments, flashcards, and reusable courseware; [awaiting stronger implementation evidence](docs/evidence.md#nolej).
 - [Mindsmith](https://www.mindsmith.ai/) - Helps learning designers create lessons, training modules, assessments, and shareable e-learning content; [awaiting non-vendor evidence](docs/evidence.md#mindsmith).
 - [Google Learn About](https://learning.google.com/experiments/learn-about) - Lets learners explore topics through interactive explanations, sources, and follow-up questions; [experimental, with limited classroom evidence](docs/evidence.md#google-learn-about).
+- [StudyArena](https://studyarena.com/) - Lets students compare three AI-generated answers to the same study question with model names hidden, vote for the most useful response, and then reveal the models; [awaiting independent evaluation or a named education deployment](docs/evidence.md#studyarena).
 
 Watchlist is an active review queue, not a lower-quality directory. A resource moves only when public evidence changes.
 
