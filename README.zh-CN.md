@@ -76,6 +76,7 @@
 - [Nolej](https://nolej.io/) - 把源材料转换为活动, 评价, 记忆卡片和可复用课件; [等待更强的落地证据](docs/evidence.md#nolej).
 - [Mindsmith](https://www.mindsmith.ai/) - 帮助学习设计者创建课程, 培训模块, 评价和可分享 e-learning 内容; [等待非厂商证据](docs/evidence.md#mindsmith).
 - [Google Learn About](https://learning.google.com/experiments/learn-about) - 让学习者通过互动解释, 来源和追问探索主题; [仍处实验阶段, 课堂证据有限](docs/evidence.md#google-learn-about).
+- [StudyArena](https://studyarena.com/) - 让学生在模型名称隐藏的情况下比较同一学习问题的三个 AI 回答, 选出最有帮助的回答后再查看模型身份; [等待独立评估或具名教育部署](docs/evidence.md#studyarena).
 
 观察名单是主动评审队列, 不是低质量目录. 只有公开证据发生变化, 项目才会移动.
 
