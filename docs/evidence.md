@@ -54,6 +54,16 @@ Evidence labels used here are Independent evaluation, Public deployment, Vendor 
 - Editorial note: The sources document teacher workflows and a named district rollout. The study and case material are published by Brisk, so outcome claims are vendor-reported.
 - Last reviewed: 2026-07-09
 
+## Corrigi
+
+- Primary: [Corrigi](https://corrigi.com/)
+- Layer: Main List
+- For: Educators authoring assessments, generating anti-cheating shuffled paper variants with QR codes, and grading bubble sheets via smartphone camera
+- Evidence: Product documentation
+- Sources: [Corrigi platform documentation](https://corrigi.com)
+- Editorial note: The source documents end-to-end exam authoring, randomized paper variants, and mobile camera optical mark recognition.
+- Last reviewed: 2026-09-12
+
 ## Gradescope
 
 - Primary: [Gradescope](https://www.gradescope.com/)

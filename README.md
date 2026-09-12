@@ -30,6 +30,7 @@ Human-reviewed | Evidence-labeled | Bilingual
 
 ## Assessment and Feedback
 
+- [Corrigi](https://corrigi.com/) - Helps educators author assessments, generate anti-cheating shuffled paper variants with QR codes, and grade bubble sheets via smartphone camera; [product documentation](docs/evidence.md#corrigi).
 - [Brisk Teaching](https://www.briskteaching.com/) - Helps teachers create feedback, assessments, differentiated materials, translations, and student activities inside existing browser workflows; [vendor case study](docs/evidence.md#brisk-teaching).
 - [Gradescope](https://www.gradescope.com/) - Helps instructors grade paper, online, and programming assignments with answer grouping, rubrics, and reusable feedback; [public deployment](docs/evidence.md#gradescope).
 - [Writable](https://www.writable.com/) - Helps teachers manage writing assignments, rubrics, feedback, and revision cycles; [product documentation](docs/evidence.md#writable).
