@@ -33,6 +33,7 @@ Human-reviewed | Evidence-labeled | Bilingual
 - [Brisk Teaching](https://www.briskteaching.com/) - Helps teachers create feedback, assessments, differentiated materials, translations, and student activities inside existing browser workflows; [vendor case study](docs/evidence.md#brisk-teaching).
 - [Gradescope](https://www.gradescope.com/) - Helps instructors grade paper, online, and programming assignments with answer grouping, rubrics, and reusable feedback; [public deployment](docs/evidence.md#gradescope).
 - [Writable](https://www.writable.com/) - Helps teachers manage writing assignments, rubrics, feedback, and revision cycles; [product documentation](docs/evidence.md#writable).
+- [QuizQuip](https://quizquip.com) - Gives Singapore lower-secondary science students syllabus-aligned notes, quizzes and practice papers, with AI practice for signed-in students.
 
 ## Tutoring and Learner Support
 
