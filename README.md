@@ -77,6 +77,7 @@ These records show implementation settings, not independent endorsements. Vendor
 - [Mindsmith](https://www.mindsmith.ai/) - Helps learning designers create lessons, training modules, assessments, and shareable e-learning content; [awaiting non-vendor evidence](docs/evidence.md#mindsmith).
 - [Google Learn About](https://learning.google.com/experiments/learn-about) - Lets learners explore topics through interactive explanations, sources, and follow-up questions; [experimental, with limited classroom evidence](docs/evidence.md#google-learn-about).
 - [StudyArena](https://studyarena.com/) - Lets students compare three AI-generated answers to the same study question with model names hidden, vote for the most useful response, and then reveal the models; [awaiting independent evaluation or a named education deployment](docs/evidence.md#studyarena).
+- [soclever](https://soclever.io/) - Lets learners type a topic and get a short course of five-minute lessons, with practice questions after each lesson, comic and podcast versions, and a final exam; [self-submitted by the maker, awaiting independent evaluation or a named education deployment](docs/evidence.md#soclever).
 
 Watchlist is an active review queue, not a lower-quality directory. A resource moves only when public evidence changes.
 

@@ -233,3 +233,13 @@ Evidence labels used here are Independent evaluation, Public deployment, Vendor 
 - Sources: [StudyArena product site](https://studyarena.com/), [StudyArena manifesto](https://studyarena.com/manifesto), [StudyArena pricing](https://studyarena.com/pricing), [Issue #9 submission and disclosure](https://github.com/KaynXu/awesome-ai-education/issues/9)
 - Editorial note: The blind-comparison workflow is concrete and publicly inspectable, but available adoption and outcome evidence is vendor-published and does not establish a named education deployment, independent evaluation, or learning outcomes. A named deployment or independent evaluation would support promotion.
 - Last reviewed: 2026-08-31
+
+## soclever
+
+- Primary: [soclever](https://soclever.io/)
+- Layer: Watchlist
+- For: Self-directed learners (13+) who want a short structured course on a topic they choose
+- Evidence: Product documentation
+- Sources: [soclever product site](https://soclever.io/), [soclever pricing](https://soclever.io/pricing), [soclever privacy policy](https://soclever.io/privacy)
+- Editorial note: Self-submitted by the maker. The topic-to-course workflow (lessons, practice questions, comic and podcast versions, final exam) is publicly inspectable, but there is no named education deployment, independent evaluation, or outcome evidence yet.
+- Last reviewed: 2026-11-05
