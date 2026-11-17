@@ -233,3 +233,13 @@ Evidence labels used here are Independent evaluation, Public deployment, Vendor 
 - Sources: [StudyArena product site](https://studyarena.com/), [StudyArena manifesto](https://studyarena.com/manifesto), [StudyArena pricing](https://studyarena.com/pricing), [Issue #9 submission and disclosure](https://github.com/KaynXu/awesome-ai-education/issues/9)
 - Editorial note: The blind-comparison workflow is concrete and publicly inspectable, but available adoption and outcome evidence is vendor-published and does not establish a named education deployment, independent evaluation, or learning outcomes. A named deployment or independent evaluation would support promotion.
 - Last reviewed: 2026-08-31
+
+## AI Code Detector
+
+- Primary: [AI Code Detector for teachers](https://ai-code-detector.com/for-teachers)
+- Layer: Watchlist
+- For: Instructors and teaching teams reviewing student source-code submissions for AI-generation signals before assessment conversations
+- Evidence: Product documentation
+- Sources: [Product for-teachers workflow](https://ai-code-detector.com/for-teachers)
+- Editorial note: The workflow is inspectable and the product reports signals rather than verdicts, but the available material is vendor documentation only. There is no named education deployment or independent evaluation yet, so Watchlist is the honest layer; a named classroom deployment would support promotion to the Main List.
+- Last reviewed: 2026-11-17
