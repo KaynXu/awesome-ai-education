@@ -33,6 +33,7 @@ Human-reviewed | Evidence-labeled | Bilingual
 - [Brisk Teaching](https://www.briskteaching.com/) - Helps teachers create feedback, assessments, differentiated materials, translations, and student activities inside existing browser workflows; [vendor case study](docs/evidence.md#brisk-teaching).
 - [Gradescope](https://www.gradescope.com/) - Helps instructors grade paper, online, and programming assignments with answer grouping, rubrics, and reusable feedback; [public deployment](docs/evidence.md#gradescope).
 - [Writable](https://www.writable.com/) - Helps teachers manage writing assignments, rubrics, feedback, and revision cycles; [product documentation](docs/evidence.md#writable).
+- [AI Code Detector](https://ai-code-detector.com/for-teachers) - Helps instructors screen student code submissions for AI-generation signals with per-file scores and highlighted snippets, as an input to assessment conversations; [product documentation](docs/evidence.md#ai-code-detector).
 
 ## Tutoring and Learner Support
 
